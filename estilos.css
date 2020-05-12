@@ -1,0 +1,33 @@
+body{
+    background-image: url('https://img.wallpapersafari.com/desktop/1680/1050/52/77/eusmBd.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+    }
+  
+  .menu{
+    background-color: lightblue;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: indigo;
+    text-align: center;
+  }  
